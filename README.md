@@ -76,7 +76,6 @@
 <h2 id="contato">📞 Contato</h2>
 <ul>
     <li><strong>GitHub</strong>: <a href="https://github.com/AlanMartines">AlanMartines</a></li>
-    <li><strong>Email</strong>: alancpmartines@hotmail.com</li>
 </ul>
 
 <p align="center">Desenvolvido com ❤️ por Alan Martines</p>
