@@ -1,7 +1,7 @@
 <h1 align="center">Filtragem de Redes IP</h1>
 
 <p align="center">
-    <img src="./network_icon.webp" alt="Logo do projeto" width="200">
+    <img src="./passthru.webp" alt="Logo do projeto" width="200">
 </p>
 
 <h2 align="center">Uma ferramenta para filtrar e coletar redes IP específicas!</h2>
